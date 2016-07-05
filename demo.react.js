@@ -72,7 +72,7 @@
 	        return _react2.default.createElement(
 	            'div',
 	            null,
-	            'Hello React, nice to have you on board! :D'
+	            'Hello React, nice to have you on board! :D :D'
 	        );
 	    }
 	});
